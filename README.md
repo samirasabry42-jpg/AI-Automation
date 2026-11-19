@@ -6,8 +6,8 @@ A live n8n portfolio for HR policy questions, job applications, career coaching,
 
 ## Website
 
-Intended GitHub Pages URL: https://samirasabry42-jpg.github.io/-FlowSpace/ (available after Pages is published).
-Repository: https://github.com/samirasabry42-jpg/-FlowSpace
+Intended GitHub Pages URL: (https://samirasabry42-jpg.github.io/AI-Automation/) (available after Pages is published).
+Repository: (https://github.com/samirasabry42-jpg/AI-Automation)
 
 Upload index.html, .nojekyll and the workflows folder at the repository root. Enable Settings > Pages > Deploy from a branch > main > / (root).
 
